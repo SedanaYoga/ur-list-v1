@@ -54,8 +54,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-To retrieve a data, you might want to fetch to json server api with this object example:
 
+Please create a JSON Server API and edit the API request endpoint to your JSON Server API.
+For further information about json-server, please visit this page and create a new one:
+https://www.npmjs.com/package/json-server
+
+To retrieve a data, you might want to fetch to json server api with this object example:
 ```json
 {
   "type": "account",
