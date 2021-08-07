@@ -1,7 +1,7 @@
 ## urList
 
 <h1 align="center">
-  <img src="https://github.com/SedanaYoga/ur-list/blob/main/src/images/logo.png" alt="logo" width="320">
+  <img src="https://github.com/SedanaYoga/ur-list-v1/blob/main/src/images/logo.png" alt="logo" width="320">
 </h1>
 
 urList, which stands for **ur**gent **list**, is a project that was intended to simplify my work. As a test analyst, I had to memorize a lot of accounts, commandline, notes from seniors, etc. So, I created this to make it easier to see/retrieve my data. I know, don't judge me, I don't care, can't wait for the final result 🎉🎉🎉
@@ -14,17 +14,17 @@ I'm too lazy to copy paste my note from notepad or other useless app.
 
 - Overall UI
 <h1 align="center">
-  <img src="https://github.com/SedanaYoga/ur-list/blob/main/src/images/mainPage.png" alt="logo" >
+  <img src="https://github.com/SedanaYoga/ur-list-v1/blob/main/src/images/mainPage.png" alt="logo" >
 </h1>
 
 - Creating list with variant types
 <h1 align="center">
-  <img src="https://github.com/SedanaYoga/ur-list/blob/main/src/images/createList.png" alt="logo">
+  <img src="https://github.com/SedanaYoga/ur-list-v1/blob/main/src/images/createList.png" alt="logo">
 </h1>
 
 - Search function for filtering based on all string data
 <h1 align="center">
-  <img src="https://github.com/SedanaYoga/ur-list/blob/main/src/images/searchFunction.png" alt="logo">
+  <img src="https://github.com/SedanaYoga/ur-list-v1/blob/main/src/images/searchFunction.png" alt="logo">
 </h1>
 
 ## Tech/framework used
